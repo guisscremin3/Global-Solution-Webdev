@@ -7,6 +7,7 @@ Trabalho realizado por:
 
 Guilherme de Oliveira Scremin - RM:564788
 Igor Gadote - RM:567747
+Gabriel Gomes Caramico - RM:568709
 
 1. Detalhes do Projeto e Ideia Central
 Tema Central (Global Solution 2025)
